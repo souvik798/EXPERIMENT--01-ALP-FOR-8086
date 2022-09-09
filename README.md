@@ -44,7 +44,7 @@ HLT;
   ![output](./output/1.jpg)
   ![output](./output/2.jpg)
   ![output](./output/3.jpg)
-### Performing 8-bit Addition using "AND" instructions :
+### Performing 8-bit Addition using "ADD" instructions :
   ![output](./output/4.jpg)
 ### Moving the data to CX register :
   ![output](./output/5.jpg)
@@ -125,7 +125,7 @@ MOV AL,00H;
 HLT;
 ~~~
 ## Output:  
-### Loading AL and BL register with the Numbers whose Subtraction has to be found :
+### Loading AL and BL register with the Numbers whose Division has to be found :
   ![output](./output/25.jpg)
   ![output](./output/26.jpg)
   ![output](./output/27.jpg)
