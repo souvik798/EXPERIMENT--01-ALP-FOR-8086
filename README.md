@@ -40,19 +40,8 @@ HLT;
 ~~~
 
 ## Output:
-### Loading AX and BX register with the Numbers whose Addition has to be found:
-  ![output](./output/1.jpg)
-  ![output](./output/2.jpg)
-  ![output](./output/3.jpg)
-### Performing 8-bit Addition using "ADD" instructions:
-  ![output](./output/4.jpg)
-### Moving the data to CX register :
-  ![output](./output/5.jpg)
-### Resetting the AX register :
   ![output](./output/6.jpg)
-### End of the execution :
-  ![output](./output/7.jpg)
-### Status of various flags:
+### Status of flags:
   ![output](./output/8.jpg)
 
 ## Subtraction of 8 bit numbers  ALP :
@@ -69,19 +58,8 @@ HLT;
 ~~~
 
 ## Output:
-### Loading AX and BX register with the Numbers whose Subtraction has to be found:
-  ![output](./output/9.jpg)
-  ![output](./output/10.jpg)
-  ![output](./output/11.jpg)
-### Performing 8-bit Subtraction using "SUB" instructions:
-  ![output](./output/12.jpg)
-### Moving the data to CX register:
-  ![output](./output/13.jpg)
-### Resetting the AX register:
   ![output](./output/14.jpg)
-### End of the execution:
-  ![output](./output/15.jpg)
-### Status of various flags:
+### Status of flags:
   ![output](./output/16.jpg)
 
 
@@ -98,19 +76,8 @@ MOV AL,00H;
 HLT;
 ~~~
 ## Output: 
-### Loading AX and BX register with the Numbers whose Multiplication has to be found:
-  ![output](./output/17.jpg)
-  ![output](./output/18.jpg)
-  ![output](./output/19.jpg)
-### Performing 8-bit Multiplication using "MUL" instructions:
-  ![output](./output/20.jpg)
-### Moving the data to CL register:
-  ![output](./output/21.jpg)
-### Resetting the AL register :
   ![output](./output/22.jpg)
-### End of the execution :
-  ![output](./output/23.jpg)
-### Status of various flags:
+### Status of flags:
   ![output](./output/24.jpg)
 
 ## Division ALP:
@@ -126,19 +93,8 @@ MOV AL,00H;
 HLT;
 ~~~
 ## Output:  
-### Loading AX and BX register with the Numbers whose Division has to be found:
-  ![output](./output/25.jpg)
-  ![output](./output/26.jpg)
-  ![output](./output/27.jpg)
-### Performing 8-bit Division using "DIV" instructions:
-  ![output](./output/28.jpg)
-### Moving the data to CL register:
-  ![output](./output/29.jpg)
-### Resetting the AL register :
   ![output](./output/30.jpg)
-### End of the execution :
-  ![output](./output/31.jpg)
-### Status of various flags:
+### Status of flags:
   ![output](./output/32.jpg)
 
 ## Result :
