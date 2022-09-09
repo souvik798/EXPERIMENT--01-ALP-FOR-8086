@@ -102,7 +102,7 @@ HLT;
   ![output](./output/17.jpg)
   ![output](./output/18.jpg)
   ![output](./output/19.jpg)
-### Performing 8-bit Subtraction using "MUL" instructions:
+### Performing 8-bit Multiplication using "MUL" instructions:
   ![output](./output/20.jpg)
 ### Moving the data to CL register:
   ![output](./output/21.jpg)
@@ -130,7 +130,7 @@ HLT;
   ![output](./output/25.jpg)
   ![output](./output/26.jpg)
   ![output](./output/27.jpg)
-### Performing 8-bit Subtraction using "DIV" instructions:
+### Performing 8-bit Division using "DIV" instructions:
   ![output](./output/28.jpg)
 ### Moving the data to CL register:
   ![output](./output/29.jpg)
